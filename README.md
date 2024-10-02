@@ -1,49 +1,79 @@
-# Asma Nadeem
+# 👩‍💻 Asma Nadeem
 
-👩‍💻 Fresh Computer Engineering Graduate | AI & Web Development Enthusiast  
-📚 Deep Learning | React.js | Python | MySQL
+**Fresh Computer Engineering Graduate | AI Enthusiast | Web Developer in Progress**
 
----
-
-Hi! 👋  
-I'm **Asma Nadeem**, a recent computer engineering graduate with a passion for AI and web development. My final year project (FYP) focused on **Deep Learning**, where I worked on pneumonia segmentation using **transformer-based AI models** in **Python**.
-
-Currently, I'm working on strengthening my **frontend development skills**, with a focus on **React.js**. My goal is to gain experience and build projects that will help me break into the freelance world.
+🚀 Final Year Project: Deep Learning for Pneumonia Segmentation using Transformer-based AI  
+🌱 Currently Learning: **React.js** and **Frontend Development**  
+🎯 Goal: Become a full-stack developer and freelance successfully.
 
 ---
 
-## ✨ My Tech Stack
+## 💡 About Me
 
-- **AI & Machine Learning:** Python, Transformer Models
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Basic knowledge of Node.js, working on MySQL integration
-- **Hardware:** Vivado, Arduino, Microcontrollers
-- **Programming Languages:** Python, Java
-- **Other Tools:** MySQL, CAD, a bit of Cybersecurity
+Hi, I’m Asma!  
+I recently graduated with a degree in Computer Engineering and worked on a **Deep Learning** project using **transformer-based AI** for **pneumonia segmentation**. I am passionate about **AI** and **Web Development**, and I’m currently focused on strengthening my **frontend** skills, especially with **React.js**.
+
+I'm highly motivated to work hard, learn, and eventually build a strong portfolio that reflects my growth in both **AI** and **web development**.
 
 ---
 
-## 🎯 Current Goals
+## 🔧 Tech Stack
 
-- Deepen my knowledge of **React.js** and frontend development
-- Start freelancing and build a strong portfolio
-- Explore more about **cybersecurity** and backend technologies
+Here are the technologies I’ve been working with:
+
+### 🚀 Languages & Tools:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Vivado](https://img.shields.io/badge/-Vivado-FF9E0F?style=for-the-badge&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-blue?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Asma Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmanadeem29&show_icons=true&theme=radical)
-
+![Asma Nadeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asmanadeem29&show_icons=true&theme=radical)
 ![Asma Nadeem's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asmanadeem29&theme=radical)
 
 ---
 
-## 📫 Connect with me:
+## 🔭 Featured Projects
 
-- [LinkedIn](www.linkedin.com/in/asma-nadeem-215596240) 
+### 🚑 **Pneumonia Segmentation with Deep Learning**  
+A **Deep Learning** project for pneumonia segmentation using transformer-based AI models in **Python**.  
+[GitHub Repository](https://github.com/asmanadeem29/fyp-project)  
+_Key Technologies: Python, TensorFlow, AI_
 
 ---
 
-❤ My passion is to continuously learn, grow, and contribute to exciting projects. I believe in the power of **clean, maintainable code** and **open-source**.
+## 🎯 Current Learning Goals
 
+I’m currently focused on the following areas to enhance my skillset:
+- Master **React.js** for frontend development
+- Explore **Node.js** for backend development
+- Build projects that merge **AI** and **web development**
+
+---
+
+## 💬 Connect with Me
+
+Let's talk about tech, AI, and web development!  
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [Portfolio](https://yourportfolio.com)  
+- [Email](mailto:youremail@example.com)
+
+---
+
+## ✨ Fun Fact
+
+💡 “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+This quote inspires me to always write clean, readable, and maintainable code.
+
+---
+
+### 🔗 Let’s collaborate!
+
+If you're interested in working together or have any opportunities for me, feel free to **connect**!
