@@ -61,9 +61,8 @@ I’m currently focused on the following areas to enhance my skillset:
 ## 💬 Connect with Me
 
 Let's talk about tech, AI, and web development!  
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Portfolio](https://yourportfolio.com)  
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](www.linkedin.com/in/asma-nadeem-215596240)  
+- [Email](asmacodesat@gmail.com)
 
 ---
 
