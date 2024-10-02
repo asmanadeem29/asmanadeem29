@@ -31,6 +31,14 @@ Currently, I'm working on strengthening my **frontend development skills**, with
 
 ---
 
+## 📊 GitHub Stats
+
+![Asma Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmanadeem29&show_icons=true&theme=radical)
+
+![Asma Nadeem's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asmanadeem29&theme=radical)
+
+---
+
 ## 📫 Connect with me:
 
 - [LinkedIn](www.linkedin.com/in/asma-nadeem-215596240) 
@@ -38,3 +46,4 @@ Currently, I'm working on strengthening my **frontend development skills**, with
 ---
 
 ❤ My passion is to continuously learn, grow, and contribute to exciting projects. I believe in the power of **clean, maintainable code** and **open-source**.
+
