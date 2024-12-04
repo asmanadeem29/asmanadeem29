@@ -1,6 +1,6 @@
 # 👩‍💻 Asma Nadeem
 
-**Fresh Computer Engineering Graduate | AI Enthusiast | Web Developer in Progress**
+**Computer Engineer | AI Enthusiast | Web Developer in Progress**
 
 🚀 Final Year Project: Deep Learning for Pneumonia Segmentation using Transformer-based AI  
 🌱 Currently Learning: **React.js** and **Frontend Development**  
