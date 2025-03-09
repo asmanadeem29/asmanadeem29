@@ -3,17 +3,17 @@
 **Computer Engineer | AI Enthusiast | Web Developer in Progress**
 
 🚀 Final Year Project: Deep Learning for Pneumonia Segmentation using Transformer-based AI  
-🌱 Currently Learning: **React.js** and **Frontend Development**  
-🎯 Goal: Become a full-stack developer and freelance successfully.
+🌱 Currently Learning: **Python** and **AI**  
+🎯 Goal: To get full grip of AI.
 
 ---
 
 ## 💡 About Me
 
 Hi, I’m Asma!  
-I recently graduated with a degree in Computer Engineering and worked on a **Deep Learning** project using **transformer-based AI** for **pneumonia segmentation**. I am passionate about **AI** and **Web Development**, and I’m currently focused on strengthening my **frontend** skills, especially with **React.js**.
+I recently graduated with a degree in Computer Engineering and worked on a **Deep Learning** project using **transformer-based AI** for **pneumonia segmentation**. I am passionate about **AI** and **Web Development**, and I’m currently focused on strengthening my **AI** skills, especially with **Python**.
 
-I'm highly motivated to work hard, learn, and eventually build a strong portfolio that reflects my growth in both **AI** and **web development**.
+I'm highly motivated to work hard, learn, and eventually build a strong portfolio that reflects my growth in **AI**.
 
 ---
 
@@ -52,9 +52,9 @@ _Key Technologies: Python, TensorFlow, AI_
 ## 🎯 Current Learning Goals
 
 I’m currently focused on the following areas to enhance my skillset:
-- Master **React.js** for frontend development
-- Explore **Node.js** for backend development
-- Build projects that merge **AI** and **web development**
+- Master **Python** for Machine learning.
+- Explore **deep learning** for more in depth stud of AI
+
 
 ---
 
