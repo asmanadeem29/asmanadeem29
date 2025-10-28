@@ -1,93 +1,109 @@
-<!-- Animated Header -->
-<h1 align="center">👩‍💻 Hi, I'm Asma Nadeem</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="Banner - Cyber AI Theme"/>
+</p>
+
+<h1 align="center">👩‍💻 Asma Nadeem</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71E6E&center=true&vCenter=true&width=600&lines=Computer+Engineer+%7C+AI+Researcher;Deep+Learning+Enthusiast;Transforming+Data+into+Intelligence" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=0EF7F7&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Researcher;Deep+Learning+%7C+Transformer+Architectures;Data+Science+%7C+Python+Developer;Always+Learning%2C+Always+Building!" alt="Typing Animation"/>
 </p>
 
 ---
 
-### 🚀 About Me
+### 💫 About Me  
 
-🎓 **Computer Engineering Graduate** | 🎯 **Master’s Student in Artificial Intelligence**  
-💡 Passionate about **Deep Learning**, **Computer Vision**, and **Web Development**.  
-🧠 **Final Year Project:** Transformer-based Deep Learning for Pneumonia Segmentation  
-🌱 **Currently Learning:** Advanced Python & Artificial Intelligence  
-💬 **Goal:** To gain mastery in AI through research, real-world projects, and collaboration.
+🚀 **Computer Engineering Graduate** | 🎓 **Master’s in Artificial Intelligence (in progress)**  
+🧠 Focused on **Deep Learning**, **Transformers**, and **AI for Healthcare**  
+💡 I believe in merging innovation with empathy — crafting AI that makes a difference.  
+🛠️ Final Year Project: *Pneumonia Segmentation using Transformer-based AI*  
+🌱 Currently leveling up in **Python**, **R**, and **AI Model Optimization**  
+
+> “The future belongs to those who teach machines how to think.”  
 
 ---
 
-### 🧰 Tech Stack
-
-Here are the technologies and tools I work with:
+### 🧰 Tech Arsenal  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Vivado-FF9E0F?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cybersecurity-2E8B57?style=for-the-badge&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,react,js,java,mysql,arduino,linux,vscode,git&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+  <img src="https://img.shields.io/badge/-AI%20Researcher-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Cybersecurity-2E8B57?style=for-the-badge"/>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### ⚙️ GitHub Analytics  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmanadeem29&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmanadeem29&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmanadeem29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmanadeem29&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmanadeem29&theme=radical" alt="Asma Nadeem's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmanadeem29&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🩺 Featured Project
+### 🚑 Featured Project: **Pneumonia Segmentation with Deep Learning**
 
-#### 🚑 **Pneumonia Segmentation with Deep Learning**
-A **Transformer-based AI model** for pneumonia detection and segmentation using **Deep Learning** in Python.  
-[🔗 View Project](https://github.com/asmanadeem29/fyp-project)  
-**Tech Used:** Python · TensorFlow · OpenCV · AI  
+🧬 A **Transformer-based AI model** that detects and segments pneumonia from X-ray images using Deep Learning.  
+📊 Built with **TensorFlow**, **OpenCV**, and **Python**.  
+[🔗 View Repository](https://github.com/asmanadeem29/fyp-project)
 
----
-
-### 🎯 Learning Goals
-
-- Master **Python** for Machine Learning  
-- Explore **Deep Learning** architectures in greater depth  
-- Apply AI to **real-world healthcare and automation challenges**
+> 🩻 Empowering healthcare with AI precision.
 
 ---
 
-### 💬 Connect with Me
+### 🎯 Current Missions
+
+- 🚀 Master **Python for Machine Learning**  
+- 🧠 Dive deeper into **Transformer architectures & attention mechanisms**  
+- 💉 Research **AI applications in healthcare**  
+- 🌐 Contribute to **open-source AI research**
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asma-nadeem-215596240">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:asmacodesat@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/asmanadeem29">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ✨ Fun Fact
+### 🧠 Fun Fact
 
-💡 *“Code is like humor. When you have to explain it, it’s bad.”* – **Cory House**  
-This quote inspires me to always write clean, efficient, and maintainable code.
+💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
+⚡ But when AI starts explaining it… that’s when it gets interesting 😉
 
 ---
 
-### 🤝 Let’s Collaborate!
+### 🔥 Let’s Collaborate
 
-If you’re working on exciting **AI** or **software development** projects, I’d love to collaborate and contribute.  
-Let’s build something impactful together! 🚀
+If you’re building something innovative in **AI**, **Deep Learning**, or **Data Science**,  
+💌 DM me or send a mail — let’s make the future smarter, together.
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="500" alt="Divider Animation">
+</p>
+
+<p align="center">
+  <i>“From circuits to cognition — every bit matters.”</i>
+</p>
+
+---
