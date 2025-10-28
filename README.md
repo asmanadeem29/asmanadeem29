@@ -1,9 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="Banner - Cyber AI Theme"/>
-</p>
-
-<h1 align="center">👩‍💻 Asma Nadeem</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=0EF7F7&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Researcher;Deep+Learning+%7C+Transformer+Architectures;Data+Science+%7C+Python+Developer;Always+Learning%2C+Always+Building!" alt="Typing Animation"/>
