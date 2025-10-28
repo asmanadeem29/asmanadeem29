@@ -1,6 +1,6 @@
 # 👩‍💻 Asma Nadeem
 
-**Computer Engineer | AI Enthusiast **
+Computer Engineer | AI Enthusiast 
 
 🚀 Final Year Project: Deep Learning for Pneumonia Segmentation using Transformer-based AI  
 🌱 Currently Learning: **Python** and **AI**  
