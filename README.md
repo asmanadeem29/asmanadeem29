@@ -8,12 +8,10 @@
 ### 💫 About Me  
 
 🚀 **Computer Engineering Graduate** | 🎓 **Master’s in Artificial Intelligence (in progress)**  
-🧠 Focused on **Deep Learning**, **Transformers**, and **AI for Healthcare**  
-💡 I believe in merging innovation with empathy — crafting AI that makes a difference.  
-🛠️ Final Year Project: *Pneumonia Segmentation using Transformer-based AI*  
-🌱 Currently leveling up in **Python**, **R**, and **AI Model Optimization**  
-
-> “The future belongs to those who teach machines how to think.”  
+🧠 Focused on Deep Learning, Transformers & healthcare applications  
+🛠️ Experience with medical image segmentation (UNet, Transformer-based models)  
+🌱 Actively improving **Python**, **R**, and **AI Model Optimization**  
+💡 Curious about turning AI research into real-world solutions
 
 ---
 
