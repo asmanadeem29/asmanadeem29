@@ -1,12 +1,7 @@
+<h1 align="center">Asma Nadeem</h1>
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision;Python+%7C+AI+Development;Building+Real-World+AI+Systems" alt="Typing Animation"/>
-</p>
----
-
-<h1 align="center">Asma Nadeem</h1>
-
-<p align="center">
-Machine Learning Engineer | MSc Artificial Intelligence | Computer Vision & Deep Learning
 </p>
 
 ---
