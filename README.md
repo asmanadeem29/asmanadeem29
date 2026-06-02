@@ -1,31 +1,34 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=0EF7F7&center=true&vCenter=true&width=800&lines=Computer+Engineer+%7C+AI+Researcher;Deep+Learning+%7C+Transformer+Architectures;Data+Science+%7C+Python+Developer;Always+Learning%2C+Always+Building!" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=0EF7F7&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision;Python+%7C+AI+Development;Building+Real-World+AI+Systems" />
 </p>
 
 ---
 
 ### 💫 About Me  
 
-🚀 **Computer Engineering Graduate** | 🎓 **Master’s in Artificial Intelligence (in progress)**  
-🧠 Focused on Deep Learning, Transformers & healthcare applications  
-🛠️ Experience with medical image segmentation (UNet, Transformer-based models)  
-🌱 Actively improving **Python**, **R**, and **AI Model Optimization**  
-💡 Curious about turning AI research into real-world solutions
+🚀 Computer Engineering Graduate  
+🎓 MSc Artificial Intelligence (in progress, University of Stirling)  
+
+I am focused on Machine Learning, Deep Learning, and Computer Vision, with a strong interest in building AI systems that solve real-world problems.
+
+🧠 I have hands-on experience in medical image segmentation using deep learning models such as UNet, UNet++, and transformer-based architectures.
+
+🛠️ I enjoy working on full ML pipelines — from data preprocessing to model training, evaluation, and performance tuning.
+
+🌱 Currently strengthening my skills in Python, Scikit-learn, TensorFlow, and applied machine learning.
 
 ---
 
-### 🧰 Tech Arsenal  
+### 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,react,js,java,mysql,arduino,linux,vscode,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,vscode,git&perline=6" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/-AI%20Researcher-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Cybersecurity-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Computer%20Vision-0A66C2?style=for-the-badge"/>
 </p>
 
 ---
@@ -38,64 +41,46 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmanadeem29&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmanadeem29&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🚑 Featured Project: **Pneumonia Segmentation with Deep Learning**
+### 🚑 Featured Project  
 
-🧬 A **Transformer-based AI model** that detects and segments pneumonia from X-ray images using Deep Learning.  
-📊 Built with **TensorFlow**, **OpenCV**, and **Python**.  
-[🔗 View Repository](https://github.com/asmanadeem29/fyp-project)
+**Medical Image Segmentation using Deep Learning**
 
-> 🩻 Empowering healthcare with AI precision.
+🧬 Built an end-to-end deep learning pipeline for medical image segmentation using architectures such as UNet and UNet++.
 
----
+📊 Technologies: Python, TensorFlow, OpenCV  
+🔬 Focus: Data preprocessing, model training, evaluation, and architecture comparison  
 
-### 🎯 Current Missions
-
-- 🚀 Master **Python for Machine Learning**  
-- 🧠 Dive deeper into **Transformer architectures & attention mechanisms**  
-- 💉 Research **AI applications in healthcare**  
-- 🌐 Contribute to **open-source AI research**
+🔗 View Repository: https://github.com/asmanadeem29/fyp-project
 
 ---
 
-### 🌐 Connect With Me
+### 🎯 Current Focus  
+
+- Machine Learning fundamentals (Scikit-learn, classical ML)  
+- Deep learning for Computer Vision  
+- Building end-to-end ML projects  
+- Strengthening Python and model evaluation skills  
+
+---
+
+### 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asma-nadeem-215596240">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge"/>
   </a>
   <a href="mailto:asmacodesat@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/asmanadeem29">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-### 🧠 Fun Fact
+### 🧠 Note  
 
-💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
-⚡ But when AI starts explaining it… that’s when it gets interesting 😉
-
----
-
-### 🔥 Let’s Collaborate
-
-If you’re building something innovative in **AI**, **Deep Learning**, or **Data Science**,  
-💌 DM me or send a mail — let’s make the future smarter, together.
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="500" alt="Divider Animation">
-</p>
-
-<p align="center">
-  <i>“From circuits to cognition — every bit matters.”</i>
-</p>
-
----
+Focused on building practical machine learning systems with clarity, structure, and real-world impact.
