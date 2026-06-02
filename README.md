@@ -3,78 +3,88 @@
 </p>
 ---
 
-### 💫 About Me  
-
-🚀 Computer Engineering Graduate  
-🎓 MSc Artificial Intelligence (in progress, University of Stirling)  
-
-I am focused on Machine Learning, Deep Learning, and Computer Vision, with a strong interest in building AI systems that solve real-world problems.
-
-🧠 I have hands-on experience in medical image segmentation using deep learning models such as UNet, UNet++, and transformer-based architectures.
-
-🛠️ I enjoy working on full ML pipelines — from data preprocessing to model training, evaluation, and performance tuning.
-
-🌱 Currently strengthening my skills in Python, Scikit-learn, TensorFlow, and applied machine learning.
-
----
-
-### 🧰 Tech Stack  
+<h1 align="center">Asma Nadeem</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,vscode,git&perline=6" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Computer%20Vision-0A66C2?style=for-the-badge"/>
+Machine Learning Engineer | MSc Artificial Intelligence | Computer Vision & Deep Learning
 </p>
 
 ---
 
-### ⚙️ GitHub Analytics  
+## 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmanadeem29&theme=tokyonight&hide_border=true"/>
-</p>
+I am a Computer Engineering graduate currently pursuing an MSc in Artificial Intelligence at the University of Stirling.
 
----
+My focus is Machine Learning, Deep Learning, and Computer Vision, with hands-on experience in building and evaluating deep learning models for real-world applications.
 
-### 🚑 Featured Project  
-
-**Medical Image Segmentation using Deep Learning**
-
-🧬 Built an end-to-end deep learning pipeline for medical image segmentation using architectures such as UNet and UNet++.
-
-📊 Technologies: Python, TensorFlow, OpenCV  
-🔬 Focus: Data preprocessing, model training, evaluation, and architecture comparison  
-
-🔗 View Repository: [https://github.com/asmanadeem29/fyp-project](https://github.com/asmanadeem29/UNetR)
+I am particularly interested in designing end-to-end ML systems — from data preprocessing to model training, evaluation, and performance improvement.
 
 ---
 
-### 🎯 Current Focus  
+## 🧠 Core Interests
 
-- Machine Learning fundamentals (Scikit-learn, classical ML)  
-- Deep learning for Computer Vision  
-- Building end-to-end ML projects  
-- Strengthening Python and model evaluation skills  
-
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/asma-nadeem-215596240">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge"/>
-  </a>
-  <a href="mailto:asmacodesat@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge"/>
-  </a>
-</p>
+- Machine Learning & Deep Learning  
+- Computer Vision  
+- Medical Image Analysis  
+- Neural Networks & Model Optimization  
+- Python-based ML Systems  
 
 ---
 
-### 🧠 Note  
+## 🛠️ Tech Stack
 
-Focused on building practical machine learning systems with clarity, structure, and real-world impact.
+**Languages:** Python  
+**ML & AI:** Scikit-learn, TensorFlow, PyTorch  
+**Data:** Pandas, NumPy  
+**Tools:** Git, Jupyter Notebook, OpenCV  
+
+---
+
+## 📌 Featured Projects
+
+### 🧬 Medical Image Segmentation (Deep Learning)
+End-to-end deep learning pipeline for medical image segmentation using UNet and UNet++ architectures.
+
+- Data preprocessing & augmentation  
+- Model training & evaluation  
+- Performance comparison across architectures  
+
+**Tech:** Python, TensorFlow, OpenCV  
+
+🔗 https://github.com/asmanadeem29/fyp-project
+
+---
+
+### 📊 Hidden Gem Products Sentiment Analysis (NLP)
+Machine learning model for sentiment classification of product reviews using classical NLP techniques.
+
+- Text preprocessing & feature extraction  
+- Model training (Logistic Regression / Naive Bayes)  
+- Sentiment classification pipeline  
+
+**Tech:** Python, Scikit-learn, NLP  
+
+🔗 https://github.com/asmanadeem29/hidden-gem-products-sentiment-analysis
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening Machine Learning fundamentals  
+- Building applied ML projects  
+- Improving model evaluation & feature engineering  
+- Expanding portfolio with real-world datasets  
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/asma-nadeem-215596240  
+- GitHub: https://github.com/asmanadeem29  
+- Email: asmacodesat@gmail.com  
+
+---
+
+## ⚡ Philosophy
+
+Focused on building simple, reliable, and practical machine learning systems that solve real problems.
