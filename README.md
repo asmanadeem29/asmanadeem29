@@ -35,8 +35,8 @@ I am focused on Machine Learning, Deep Learning, and Computer Vision, with a str
 ### ⚙️ GitHub Analytics  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmanadeem29&show_icons=true&theme=default&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmanadeem29&layout=compact&theme=default&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmanadeem29&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmanadeem29&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
